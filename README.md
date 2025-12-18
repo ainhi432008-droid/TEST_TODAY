@@ -1,3 +1,3 @@
 # TEST_TODAY
 Để test git hôm nay 
-Xin chào các mAY toi 
+Xin chào các nhu toi 
